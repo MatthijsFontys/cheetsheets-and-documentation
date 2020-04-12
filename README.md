@@ -4,11 +4,11 @@
 
 #### Working on
 * Style guide
-  * [] Generic
-  * [] SQL
-  * [] Javascript
-  * [] Java & C#
-  * [] CSS
+  * [ ] Generic
+  * [ ] SQL
+  * [ ] Javascript
+  * [ ] Java & C#
+  * [ ] CSS
 
 #### Planned
 * Regex cheat sheet
